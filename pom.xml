@@ -141,6 +141,7 @@
         <mybatis.version>3.5.15</mybatis.version><!-- @sync io.quarkiverse.mybatis:quarkus-parent:${quarkiverse-mybatis.version} prop:mybatis.version -->
         <oak-jackrabbit-api.version>1.48.0</oak-jackrabbit-api.version><!-- @sync org.apache.jackrabbit:jackrabbit-parent:${jackrabbit-version} prop:oak-jackrabbit-api.version.implemented -->
         <okio.version>${squareup-okio-version}</okio.version>
+        <okhttp.version>${squareup-okhttp-version}</okhttp.version>
         <opencensus.version>0.31.0</opencensus.version><!-- Mess in Google cloud. Keep in sync with version used in com.google.http-client:google-http-client -->
         <perfmark-api.version>0.26.0</perfmark-api.version><!-- @sync io.grpc:grpc-netty-shaded:${grpc.version} dep:io.perfmark:perfmark-api -->
         <protobuf.version>3.25.0</protobuf.version><!-- @sync io.quarkus:quarkus-bom:${quarkus.version} dep:com.google.protobuf:protobuf-java -->
